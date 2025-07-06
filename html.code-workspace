@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "../../../puppeteer_checker_setup_puppeteer/puppeteer_checker"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {}
+}
